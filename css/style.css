@@ -35,3 +35,13 @@ header #logo{
 h1{
 	color: #ff0000;
 }
+
+footer{
+	background: #ddddff;
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	padding: 0.5em 1em;
+	text-align: center;
+	width: 97%;
+}
