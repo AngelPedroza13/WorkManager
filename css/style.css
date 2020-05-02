@@ -1,3 +1,4 @@
+/*Estilos generales*/
 body{
 	margin: 0;
 	padding: 0;
@@ -45,3 +46,79 @@ footer{
 	text-align: center;
 	width: 97%;
 }
+
+/*Fin de estilos generales*/
+
+/*Area de login*/
+
+#Formulario-Login{
+	border: solid 1px #000;
+	border-radius: 10px;
+	margin: 5em auto;
+	padding: 2em;
+	width: 30%;
+}
+
+#table-login{
+	margin:  1em auto;
+	width: 90%;
+}
+
+.column-text{
+	width: 40%;
+}
+
+.column-input{
+	width: 60%;
+}
+
+#button-login{
+	float: right;
+	margin-top: 1em;
+	margin-right: 1em;
+}
+
+/*Fin area de login*/
+
+/*Area de lista de tareas*/
+
+#area-table{
+	margin: 1em auto;
+	width: 90%;
+}
+
+#tabla-tareas{
+	margin: 1em auto;
+	width: 80%;
+}
+
+#tabla-tareas thead{
+	background: #ffffcc;
+}
+
+#tabla-tareas td{
+	padding: 0.5em 1em;
+	width: 20%;
+}
+
+.even{
+	background: #dddddd;
+}
+
+#NuevaTarea{
+	background: #ddddff;
+	color: #00f;
+	border: solid 1px #000000;
+	border-radius: 1.2em;
+	position: absolute;
+	bottom: 1.5em;
+	right: 0.5em;
+	text-decoration: none;
+	font-size: 2em;
+	font-weight: bold;
+	padding: 10px;
+}
+
+/*Fin Area de tareas*/
+
+

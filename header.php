@@ -3,7 +3,6 @@
 <head>
 	<title>Lista de tareas</title>
 	<link rel="stylesheet" type="text/css" href="css/style.css">
-	<link rel="stylesheet" type="text/css" href="css/lista_tareas.css">
 </head>
 <body>
 	<header>
