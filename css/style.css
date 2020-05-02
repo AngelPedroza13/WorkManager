@@ -5,8 +5,33 @@ body{
 	font-size: 16px;
 }
 
+header{
+	background: #ddddff;
+	padding: 1em;
+}
+
+header *{
+	display: inline-block;
+	vertical-align: middle;
+}
+
+header #logo{
+	width: 40px;
+	height: 40px;
+}
+
+#main-menu a{
+	margin: 0;
+	padding: 0 1em;
+	text-decoration: none;
+}
+
 #Content{
 	margin: 0 auto;
 	padding: 1em;
 	width: 90%;
+}
+
+h1{
+	color: #ff0000;
 }
