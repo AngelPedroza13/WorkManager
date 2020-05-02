@@ -20,3 +20,17 @@
 .even{
 	background: #dddddd;
 }
+
+#NuevaTarea{
+	background: #ddddff;
+	color: #00f;
+	border: solid 1px #000000;
+	border-radius: 1.2em;
+	position: absolute;
+	bottom: 1.5em;
+	right: 0.5em;
+	text-decoration: none;
+	font-size: 2em;
+	font-weight: bold;
+	padding: 10px;
+}
